@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sarah Byun (@sbyun72)
+- 👋 Hi, I’m Sarah Byun
 - 👀 I’m interested in data analysis and database management!
 - 🌱 I’m currently learning: SQL and Tableau
 - 😄 Pronouns: she/her

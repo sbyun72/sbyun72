@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarah Byun
 - 👀 I’m interested in data analysis and database management!
-- 🌱 I’m currently learning: SQL and Tableau
+- 🌱 I’m currently learning: SQL and <a href="https://public.tableau.com/app/profile/sarah.b4052/vizzes">Tableau (see visuals)</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can play three instruments!
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sarah-byun-2019/">LinkedIn</a>
